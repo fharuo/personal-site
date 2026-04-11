@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/app/quiz-game", "destination": "https://quiz-game-psi-six.vercel.app/app/quiz-game" },
+    { "source": "/app/quiz-game/(.*)", "destination": "https://quiz-game-psi-six.vercel.app/app/quiz-game/$1" }
+  ]
+}
