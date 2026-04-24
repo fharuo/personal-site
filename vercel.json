@@ -1,6 +1,8 @@
 {
   "rewrites": [
     { "source": "/app/quiz-game", "destination": "https://quiz-game-psi-six.vercel.app/app/quiz-game" },
-    { "source": "/app/quiz-game/(.*)", "destination": "https://quiz-game-psi-six.vercel.app/app/quiz-game/$1" }
+    { "source": "/app/quiz-game/(.*)", "destination": "https://quiz-game-psi-six.vercel.app/app/quiz-game/$1" },
+    { "source": "/app/drag-and-drop", "destination": "https://drag-and-drop-blond.vercel.app/app/drag-and-drop" },
+    { "source": "/app/drag-and-drop/(.*)", "destination": "https://drag-and-drop-blond.vercel.app/app/drag-and-drop/$1" }
   ]
 }
