@@ -5,6 +5,8 @@
     { "source": "/app/drag-and-drop", "destination": "https://drag-and-drop-blond.vercel.app/app/drag-and-drop" },
     { "source": "/app/drag-and-drop/(.*)", "destination": "https://drag-and-drop-blond.vercel.app/app/drag-and-drop/$1" },
     { "source": "/app/agility-game", "destination": "https://agility-game-app.vercel.app/app/agility-game" },
-    { "source": "/app/agility-game/(.*)", "destination": "https://agility-game-app.vercel.app/app/agility-game/$1" }
+    { "source": "/app/agility-game/(.*)", "destination": "https://agility-game-app.vercel.app/app/agility-game/$1" },
+    { "source": "/app/lojinha-pic-pay", "destination": "https://lojinha-pic-pay.vercel.app/app/lojinha-pic-pay" },
+    { "source": "/app/lojinha-pic-pay/(.*)", "destination": "https://lojinha-pic-pay.vercel.app/app/lojinha-pic-pay/$1" }
   ]
 }
