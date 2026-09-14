@@ -13,6 +13,8 @@
     { "source": "/app/medico-residente", "destination": "https://medico-residente.vercel.app/app/medico-residente" },
     { "source": "/app/medico-residente/(.*)", "destination": "https://medico-residente.vercel.app/app/medico-residente/$1" },
     { "source": "/app/jogo-da-memoria-cielo", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo" },
-    { "source": "/app/jogo-da-memoria-cielo/(.*)", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo/$1" }
+    { "source": "/app/jogo-da-memoria-cielo/(.*)", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo/$1" },
+    { "source": "/app/medico-residente-quizz", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz" },
+    { "source": "/app/medico-residente-quizz/(.*)", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz/$1" }
   ]
 }
