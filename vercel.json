@@ -11,6 +11,8 @@
     { "source": "/app/nuclea-febraban", "destination": "https://nuclea-febraban.vercel.app/app/nuclea-febraban" },
     { "source": "/app/nuclea-febraban/(.*)", "destination": "https://nuclea-febraban.vercel.app/app/nuclea-febraban/$1" },
     { "source": "/app/medico-residente", "destination": "https://medico-residente.vercel.app/app/medico-residente" },
-    { "source": "/app/medico-residente/(.*)", "destination": "https://medico-residente.vercel.app/app/medico-residente/$1" }
+    { "source": "/app/medico-residente/(.*)", "destination": "https://medico-residente.vercel.app/app/medico-residente/$1" },
+    { "source": "/app/jogo-da-memoria-cielo", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo" },
+    { "source": "/app/jogo-da-memoria-cielo/(.*)", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo/$1" }
   ]
 }
