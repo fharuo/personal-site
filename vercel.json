@@ -15,6 +15,8 @@
     { "source": "/app/jogo-da-memoria-cielo", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo" },
     { "source": "/app/jogo-da-memoria-cielo/(.*)", "destination": "https://jogo-da-memoria-cielo.vercel.app/app/jogo-da-memoria-cielo/$1" },
     { "source": "/app/medico-residente-quizz", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz" },
-    { "source": "/app/medico-residente-quizz/(.*)", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz/$1" }
+    { "source": "/app/medico-residente-quizz/(.*)", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz/$1" },
+    { "source": "/app/hive", "destination": "https://hive-five-beta.vercel.app/app/hive" },
+    { "source": "/app/hive/(.*)", "destination": "https://hive-five-beta.vercel.app/app/hive/$1" }
   ]
 }
