@@ -17,6 +17,8 @@
     { "source": "/app/medico-residente-quizz", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz" },
     { "source": "/app/medico-residente-quizz/(.*)", "destination": "https://medico-residente-quizz.vercel.app/app/medico-residente-quizz/$1" },
     { "source": "/app/hive", "destination": "https://hive-five-beta.vercel.app/app/hive" },
-    { "source": "/app/hive/(.*)", "destination": "https://hive-five-beta.vercel.app/app/hive/$1" }
+    { "source": "/app/hive/(.*)", "destination": "https://hive-five-beta.vercel.app/app/hive/$1" },
+    { "source": "/app/bbseg-jogo-da-memoria", "destination": "https://bbseg-jogo-da-memoria.vercel.app/app/bbseg-jogo-da-memoria" },
+    { "source": "/app/bbseg-jogo-da-memoria/(.*)", "destination": "https://bbseg-jogo-da-memoria.vercel.app/app/bbseg-jogo-da-memoria/$1" }
   ]
 }
